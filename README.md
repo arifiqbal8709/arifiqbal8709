@@ -5,20 +5,21 @@
 <a href="https://github.com/arifiqbal8709?tab=followers"><img src="https://img.shields.io/github/followers/arifiqbal8709?style=for-the-badge\&logo=github\&label=Followers\&color=0969da\&labelColor=0d1117" alt="GitHub followers" /></a>
 <a href="https://github.com/arifiqbal8709?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-0969DA?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0d1117" alt="Explore projects" /></a>
 </div>
-👨‍💻 About Me
-```yaml
-name: Arif Iqbal
-role: Full Stack Developer | AI Explorer | Creative Video Editor
-education: Bachelor of Computer Applications (BCA)
-location: Jharkhand, India
-interests: \[Artificial Intelligence, Web Development, IoT, Robotics, Sustainability]
-currently\_building: Useful technology for real-world challenges
-```
-🔭 Exploring AI-powered applications, full-stack systems and IoT prototypes.
-🌱 Learning by building, testing and improving real projects.
-🤝 Interested in hackathons, open-source collaboration and impactful ideas.
-🎬 Also passionate about creative video editing and visual storytelling.
-💡 Motto: Build. Learn. Improve. Repeat.
+### 👨‍💻 About Me
+
+- 🎓 BCA Student | Jharkhand, India
+- 💻 Full Stack Developer
+- 🤖 Interested in Artificial Intelligence & IoT
+- 🚀 Building real-world technology solutions
+- 🏆 Hackathon Participant & Innovator
+- 🎬 Creative Video Editor
+- 🌱 Currently exploring AI, Robotics & Web Development
+
+- 🔭 Exploring AI-powered applications and full-stack systems.
+- 🌱 Learning by building and improving real projects.
+- 🏆 Passionate about hackathons and innovation.
+- 🎬 Creative video editor and storyteller.
+- 💡 **Motto:** Build. Learn. Improve. Repeat.
 🛠️ Tech Stack
 <div align="center">
 Languages & Web
